@@ -47,4 +47,4 @@ jobs:
         with:
           # 部署文档
           branch: blog_pages
-          folder: src/.vuepress/dist
+          folder: src/.vuepress/dist/blog
