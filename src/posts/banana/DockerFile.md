@@ -8,8 +8,8 @@ cover: >-
 tag:
   - Dockerfile
   - Docker
-categories:
-  - Docker
+category:
+  - category
 ---
 
 ### 前言
